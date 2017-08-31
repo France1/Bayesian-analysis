@@ -1,2 +1,5 @@
 # Bayesian-analysis
-Worked examples and implementation of Bayesian Data Analysis 
+Worked examples and implementations of Bayesian Data Analysis.
+
+As a beginner I struggled to understand how to obtain the results shown in popular Basyesian analysis and Machine learning books such as in Bishop, Pattern Recognition and Machine Learning, and in Sivia, Data Analysis A Bayesian Tutorial.
+This repository contains my implementations to the steps needed to reproduce these results.
